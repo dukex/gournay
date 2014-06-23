@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/andyatkinson/gournay",
+	"GoVersion": "go1.2.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Rev": "6c54219055243614d4eaffea55917c15bea2ba2f"
+		}
+	]
+}
